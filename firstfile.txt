@@ -2,3 +2,4 @@ Hello, Git.
 
 
 this is new feature
+feature3
