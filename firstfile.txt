@@ -3,3 +3,4 @@ Hello, Git.
 
 this is new feature
 feature3
+This is master's conflict line
